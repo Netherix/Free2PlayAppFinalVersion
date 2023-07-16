@@ -1,0 +1,11 @@
+.sorting-options-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  
+  .option-label {
+    margin-right: 8px;
+    margin-left: 8px;
+  }
+  
