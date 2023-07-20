@@ -1,4 +1,4 @@
-// Import the functions you need from the SDKs you need
+
 import { initializeApp } from 'firebase/app';
 import { getAuth, setPersistence, browserLocalPersistence } from 'firebase/auth';
 import {
@@ -11,7 +11,7 @@ import {
   getDoc,
 } from 'firebase/firestore';
 
-// Your web app's Firebase configuration
+// Firebase configuration
 const firebaseConfig = {
   apiKey: "AIzaSyBvG81M3iNZhjOxkusEUmOiVqlCDU0UE-c",
   authDomain: "free2play-9fb98.firebaseapp.com",
